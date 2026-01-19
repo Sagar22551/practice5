@@ -2,4 +2,6 @@
 void main()
 {
   bubble();
+  sort();
+  return 0;
 }
